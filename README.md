@@ -34,3 +34,7 @@ WIDAR는 야생 동물이 민가/농가 주변에 출현하는 상황을 영상 
 2. 퇴치 방법 고도화 (현재: 아두이노 기반 라이트/사운드 중심)
 3. 다양한 퇴치 방식 확장 (야생 동물의 후각 발달 특성을 고려한 방법 포함)
 4. 객체 탐지 모델 정확도 개선
+
+
+## 📜 License
+The code in this repository is released under the GPL-3.0 license License.
