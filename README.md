@@ -26,7 +26,7 @@ WIDAR는 야생 동물이 민가/농가 주변에 출현하는 상황을 영상 
 
 
 ## 🧭 Overview
-<img src="https://github.com/MonoHaru/HyFD-SME/blob/main/assets/overview.png" alt="overview" width="700">
+<img src="https://github.com/MonoHaru/WIDAR/blob/main/assets/overview.png" alt="overview" width="700">
 
 
 ## 🔮 **Future Work** 
