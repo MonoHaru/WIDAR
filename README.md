@@ -26,7 +26,7 @@ WIDAR는 야생 동물이 민가/농가 주변에 출현하는 상황을 영상 
 
 
 ## 🧭 Overview
-<img src="https://github.com/user-attachments/assets/1f11df14-5ca4-47ca-b136-eab49df77ef3" width="600" />
+<img src="https://github.com/user-attachments/assets/1f11df14-5ca4-47ca-b136-eab49df77ef3" width="700" />
 <!-- ![image](https://github.com/user-attachments/assets/1f11df14-5ca4-47ca-b136-eab49df77ef3) -->
 
 
